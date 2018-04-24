@@ -6,7 +6,7 @@ ____
 
 # **2. Product introduction**
 
-* attestation authentication module (opened test)
+## attestation authentication module (opened test)
 
 >_The attestation and authentication function of IP is the foundation of UnlimitedIP._
 
@@ -22,7 +22,7 @@ When users upload each work, they will be automatically time stamped by the trad
 
 ____
 
-* Trading Module (under development)
+## Trading Module (under development)
 
 >_The IP trading function is the core of UnlimitedIP._
 
@@ -44,7 +44,7 @@ When seller and buyer have split requirements for IP rights, IPUnit will be intr
 
 ____
 
-* Wallet (under development)
+## Wallet (under development)
 
 Uni-wallet, is a wallet application which fully supports ERC20. Currently, UIP has reached a strategic cooperation with YayaPay, and it has partner with more than 12,000 stores in Japan. The wallet will be used for art and entertainment products.
 
