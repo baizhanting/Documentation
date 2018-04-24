@@ -8,7 +8,7 @@ ____
 
 ## * attestation authentication module (opened test)
 
-The attestation and authentication function of IP is the foundation of UnlimitedIP.
+_The attestation and authentication function of IP is the foundation of UnlimitedIP.
 
 User related: The platform adopts the real name registration mode. Credit credit management for users.
 
@@ -20,7 +20,7 @@ ____
 
 ## * Trading Module (under development)
 
-The IP trading function is the core of UnlimitedIP.
+_The IP trading function is the core of UnlimitedIP.
 
 Selling: The owner can dismantle the IP according to the type, such as only selling the rights of film and television adaptations, and retain the literary copyright himself. At the same time, he can also set the time of authorization, payment method, and purchaser qualification.
 
