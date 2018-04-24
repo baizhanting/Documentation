@@ -10,11 +10,11 @@ ____
 
 >_The attestation and authentication function of IP is the foundation of UnlimitedIP._
 
-** User related: **
+### User related: 
 
 The platform adopts the real name registration mode. Credit credit management for users.
 
-** Attestation: **
+### Attestation: 
 
 When users upload each work, they will be automatically time stamped by the trading platform. After the attestation is completed, the platform will help the work obtain official authentication.
 
@@ -26,19 +26,19 @@ ____
 
 >_The IP trading function is the core of UnlimitedIP._
 
-** Selling: **
+### Selling: 
 
 The owner can dismantle the IP according to the type, such as only selling the rights of film and television adaptations, and retain the literary copyright himself. At the same time, he can also set the time of authorization, payment method, and purchaser qualification.
 
-** Purchase: **
+### Purchase: 
 
 The buyer of the IP can also set his own purchase needs. The buyer and seller complete the exchange  by matching and coupling from  the platform.
 
-** Coupling: **
+### Coupling: 
 
 UIP provides different ways for small  medium IP and big-sized IP, which not only makes full use of the advantages of smart contracts in the entire transaction, but also gives full play to the advantages of the UIP team in the field of entertainment, which will help UIP create very high competition barriers.
 
-** Split:**
+### Split:
 
 When seller and buyer have split requirements for IP rights, IPUnit will be introduced—that is, the IP shares. The value of IPUnit is likely to increase as this IP grows. Fans can not only achieve spiritual satisfaction through chasing celebrity and chasing dramas, but also realize real economic benefits by holding IPUnits.
 
