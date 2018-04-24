@@ -1,14 +1,14 @@
-**1. What is UIP**
+# **1. What is UIP**
 
 UnlimitedIP is a recreational copyright intelligent trading platform created by Link Entertainment Technology based on EOS.  Based on blockchain's characteristics of traceability, distributivity and tampered-impossibillity and technology of Hash algorithm, asymmetric encryption and timestamp, combined with EOS operation system's characters such as capability of supporting million-dollar commercial transactions, low-retardance and free of charge, UnlimitedIP is committed to providing global pan-entertainment IP copyright holders with one-stop intelligent service of entertainment copyright, which include copyright attestation, copyright authentication, copyright registration, copyright trading, online rights protection and content incubation etc.
 
 ____
 
-**2. Product introduction**
+# **2. Product introduction**
 
-* attestation authentication module (opened test)
+## * attestation authentication module (opened test)
 
-_The attestation and authentication function of IP is the foundation of UnlimitedIP.
+The attestation and authentication function of IP is the foundation of UnlimitedIP.
 
 User related: The platform adopts the real name registration mode. Credit credit management for users.
 
@@ -18,7 +18,7 @@ Attestation: When users upload each work, they will be automatically time stampe
 
 ____
 
-* Trading Module (under development)
+## * Trading Module (under development)
 
 The IP trading function is the core of UnlimitedIP.
 
@@ -32,7 +32,7 @@ Split: When seller and buyer have split requirements for IP rights, IPUnit will 
 
 ____
 
-* Wallet (under development)
+## * Wallet (under development)
 
 Uni-wallet, is a wallet application which fully supports ERC20. Currently, UIP has reached a strategic cooperation with YayaPay, and it has partner with more than 12,000 stores in Japan. The wallet will be used for art and entertainment products.
 
