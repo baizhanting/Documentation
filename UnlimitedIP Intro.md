@@ -6,7 +6,7 @@ ____
 
 # **2. Product introduction**
 
-## attestation authentication module (opened test)
+## Attestation authentication module (opened test)
 
 >_The attestation and authentication function of IP is the foundation of UnlimitedIP._
 
