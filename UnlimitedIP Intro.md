@@ -52,6 +52,6 @@ ____
 
 ![](http://m.qpic.cn/psb?/V11hfwR51tpuHu/*8L9oyXROMjFcf9VU23yuMpZCqvIvJchMoIH10JhamU!/b/dDEBAAAAAAAA&bo=fAGjAgAAAAARB.w!&rf=viewer_4)
 
-The picture above:The home page of Uni-wallet 
+The picture above: The home page of Uni-wallet 
 ____
 
