@@ -50,7 +50,7 @@ Uni-wallet, is a wallet application which fully supports ERC20. Currently, UIP h
 
 ____
 
-![ ](https://steemitimages.com/DQmdXMcU77d3AiAKR1BbzhCrj6f15oxUxiRPh1N9J89fG1E/391524629139_.pic_hd.jpg)
+![](http://m.qpic.cn/psb?/V11hfwR51tpuHu/*8L9oyXROMjFcf9VU23yuMpZCqvIvJchMoIH10JhamU!/b/dDEBAAAAAAAA&bo=fAGjAgAAAAARB.w!&rf=viewer_4)
 
 The picture above:The home page of Uni-wallet 
 ____
