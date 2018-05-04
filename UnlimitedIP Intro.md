@@ -59,4 +59,4 @@ ____
 
 ## Our slogan
 
->_No need to be a President,WICP  ._
+>_No need to be a President,WICP is enough ._
