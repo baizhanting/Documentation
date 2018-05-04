@@ -55,4 +55,4 @@ ____
 The picture above: The home page of Uni-wallet 
 ____
 
-# 3. # **1. UnlimitedEOS**
+#3.  **UnlimitedEOS**
