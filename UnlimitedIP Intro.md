@@ -55,8 +55,9 @@ ____
 The picture above: The home page of Uni-wallet 
 ____
 
-# **3. UnlimitedEOS**
 
-## Our slogan
 
->_No need to be a President,WICP is enough ._
+
+
+
+
